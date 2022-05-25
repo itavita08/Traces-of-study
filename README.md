@@ -10,3 +10,4 @@
 ## MySQL
 0. [데이터베이스](https://github.com/itavita08/Traces-of-study/blob/main/SQL/00_base.md)
 1. [테이블](https://github.com/itavita08/Traces-of-study/blob/main/SQL/01_%ED%85%8C%EC%9D%B4%EB%B8%94.md)
+2. [Select](https://github.com/itavita08/Traces-of-study/blob/main/SQL/02_SELECT.md)
