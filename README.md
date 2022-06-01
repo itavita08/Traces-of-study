@@ -14,4 +14,4 @@
 3. [함수](https://github.com/itavita08/Traces-of-study/blob/main/SQL/03_%ED%95%A8%EC%88%98.md)
 4. [집계함수](https://github.com/itavita08/Traces-of-study/blob/main/SQL/04_%EC%A7%91%EA%B3%84%ED%95%A8%EC%88%98.md)
 5. [조인](https://github.com/itavita08/Traces-of-study/blob/main/SQL/05_join.md)
-6. [서브쿼리](https://github.com/itavita08/Traces-of-study/tree/main/SQL)
+6. [서브쿼리]([https://github.com/itavita08/Traces-of-study/tree/main/SQL](https://github.com/itavita08/Traces-of-study/blob/main/SQL/06_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md))
