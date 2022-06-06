@@ -16,3 +16,4 @@
 5. [조인](https://github.com/itavita08/Traces-of-study/blob/main/SQL/05_join.md)
 6. [서브쿼리](https://github.com/itavita08/Traces-of-study/blob/main/SQL/06_%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
 7. [DDL/DML](https://github.com/itavita08/Traces-of-study/blob/main/SQL/07_DML_DDL.md)
+8. [pymysql을 이용해 mysql연동](https://github.com/itavita08/Traces-of-study/blob/main/SQL/08_pymysql%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20mysql%EC%97%B0%EB%8F%99.md)
