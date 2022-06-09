@@ -9,6 +9,7 @@
 1. [변수와 데이터타입](https://github.com/itavita08/Traces-of-study/blob/main/%EC%98%88%EC%A0%9C%EB%AC%B8%EC%A0%9C/01_%EB%B3%80%EC%88%98%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85%20%EC%98%88%EC%A0%9C%20%EB%AC%B8%EC%A0%9C.ipynb)
 ## Pandas
 1. [Pandas_Series](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/01_Pandas_Series.ipynb)
+2. [Pandas_DataFrame](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/02_Pandas_DataFrame.ipynb)
 ## MySQL
 0. [데이터베이스](https://github.com/itavita08/Traces-of-study/blob/main/SQL/00_base.md)
 1. [테이블](https://github.com/itavita08/Traces-of-study/blob/main/SQL/01_%ED%85%8C%EC%9D%B4%EB%B8%94.md)
