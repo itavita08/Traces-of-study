@@ -12,6 +12,8 @@
 4. [Groupby 관련메소드 및 일괄처리 메소드](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/04_groupby%20%EA%B4%80%EB%A0%A8%EB%A9%94%EC%86%8C%EB%93%9C%20%EB%B0%8F%20%EC%9D%BC%EA%B4%84%EC%B2%98%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.ipynb)
 5. [Pandas_DataFrame_합치기](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/05_Pandas_DataFrame_%ED%95%A9%EC%B9%98%EA%B8%B0.ipynb) 
 6. [DataFrame_재구조화](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/06_DataFrame_%EC%9E%AC%EA%B5%AC%EC%A1%B0%ED%99%94.ipynb)
+## Matplotlib
+1. [Matplotlib_개요](https://github.com/itavita08/Traces-of-study/blob/main/Matplotlib/01_matplotlib%20%EA%B0%9C%EC%9A%94.ipynb)
 ## MySQL
 0. [데이터베이스](https://github.com/itavita08/Traces-of-study/blob/main/SQL/00_base.md)
 1. [테이블](https://github.com/itavita08/Traces-of-study/blob/main/SQL/01_%ED%85%8C%EC%9D%B4%EB%B8%94.md)
