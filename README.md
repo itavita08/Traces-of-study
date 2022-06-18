@@ -14,6 +14,7 @@
 6. [DataFrame_재구조화](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/06_DataFrame_%EC%9E%AC%EA%B5%AC%EC%A1%B0%ED%99%94.ipynb)
 ## Matplotlib
 1. [Matplotlib_개요](https://github.com/itavita08/Traces-of-study/blob/main/Matplotlib/01_matplotlib%20%EA%B0%9C%EC%9A%94.ipynb)
+2. [각종 그래프](https://github.com/itavita08/Traces-of-study/blob/main/Matplotlib/02_%EA%B0%81%EC%A2%85%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.ipynb)
 ## MySQL
 0. [데이터베이스](https://github.com/itavita08/Traces-of-study/blob/main/SQL/00_base.md)
 1. [테이블](https://github.com/itavita08/Traces-of-study/blob/main/SQL/01_%ED%85%8C%EC%9D%B4%EB%B8%94.md)
