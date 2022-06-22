@@ -13,7 +13,7 @@
 5. [Pandas_DataFrame_합치기](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/05_Pandas_DataFrame_%ED%95%A9%EC%B9%98%EA%B8%B0.ipynb) 
 6. [DataFrame_재구조화](https://github.com/itavita08/Traces-of-study/blob/main/Pandas/06_DataFrame_%EC%9E%AC%EA%B5%AC%EC%A1%B0%ED%99%94.ipynb)
 ## Numpy
-1. [](https://github.com/itavita08/Traces-of-study/blob/main/Numpy/01-Numpy%EA%B0%9C%EC%9A%94_%EB%B0%B0%EC%97%B4%EC%83%9D%EC%84%B1.ipynb)
+1. [Numpy개요_배열생성](https://github.com/itavita08/Traces-of-study/blob/main/Numpy/01-Numpy%EA%B0%9C%EC%9A%94_%EB%B0%B0%EC%97%B4%EC%83%9D%EC%84%B1.ipynb)
 ## Matplotlib
 1. [Matplotlib_개요](https://github.com/itavita08/Traces-of-study/blob/main/Matplotlib/01_matplotlib%20%EA%B0%9C%EC%9A%94.ipynb)
 2. [각종 그래프](https://github.com/itavita08/Traces-of-study/blob/main/Matplotlib/02_%EA%B0%81%EC%A2%85%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.ipynb)
