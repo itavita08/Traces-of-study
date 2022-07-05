@@ -35,3 +35,4 @@
 ## 머신러닝
 1. [데이터set 나누기와 ](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/01_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%20%EB%82%98%EB%88%84%EA%B8%B0%EC%99%80%20%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D.ipynb)
 2. [데이터전처리](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/02_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC%20.ipynb)
+3. [분류평가지표](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/03_%EB%B6%84%EB%A5%98%20%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C.ipynb)
