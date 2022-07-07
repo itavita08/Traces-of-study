@@ -37,3 +37,4 @@
 2. [데이터전처리](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/02_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC%20.ipynb)
 3. [분류평가지표](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/03_%EB%B6%84%EB%A5%98%20%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C.ipynb)
 4. [과적합,일반화,GridSearch,Pipline](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/04_%EA%B3%BC%EC%A0%81%ED%95%A9_%EC%9D%BC%EB%B0%98%ED%99%94_%EA%B7%B8%EB%A6%AC%EB%93%9C%EC%84%9C%EC%B9%98_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.ipynb)
+5. [지도학습_최근접이웃_SVM](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/05_%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5_%EC%B5%9C%EA%B7%BC%EC%A0%91%EC%9D%B4%EC%9B%83_SVM.ipynb)
