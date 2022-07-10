@@ -40,3 +40,4 @@
 5. [지도학습_최근접이웃_SVM](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/05_%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5_%EC%B5%9C%EA%B7%BC%EC%A0%91%EC%9D%B4%EC%9B%83_SVM.ipynb)
 6. [결정트리와 랜덤포레스트](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/06_%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC%EC%99%80%20%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8.ipynb)
 7. [앙상블_부스팅](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/07_%EC%95%99%EC%83%81%EB%B8%94_%EB%B6%80%EC%8A%A4%ED%8C%85_Voting.ipynb)
+8. [회귀모델 개요_평가지표](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/08_%ED%9A%8C%EA%B7%80%EB%AA%A8%EB%8D%B8%EA%B0%9C%EC%9A%94_%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C.ipynb)
