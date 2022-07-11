@@ -43,4 +43,4 @@
 8. [회귀모델 개요_평가지표](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/08_%ED%9A%8C%EA%B7%80%EB%AA%A8%EB%8D%B8%EA%B0%9C%EC%9A%94_%ED%8F%89%EA%B0%80%EC%A7%80%ED%91%9C.ipynb)
 9. [선형회귀](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/09_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.ipynb)
 10. [최적화_경사하강법](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/10_%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95.ipynb)
-11
+11. [로지스틱회귀](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/11_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80.ipynb)
