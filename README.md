@@ -44,3 +44,5 @@
 9. [선형회귀](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/09_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80.ipynb)
 10. [최적화_경사하강법](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/10_%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95.ipynb)
 11. [로지스틱회귀](https://github.com/itavita08/Traces-of-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/11_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80.ipynb)
+## 딥러닝
+1. [신경망구조](https://github.com/itavita08/Traces-of-study/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D/01_%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B5%AC%EC%A1%B0.ipynb)
