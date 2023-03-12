@@ -53,3 +53,4 @@
 ## Dart
 1. [Null Safety](https://github.com/itavita08/Traces-of-study/blob/main/Dart/Null%20Safety.md)
 2. [Named Argument](https://github.com/itavita08/Traces-of-study/blob/main/Dart/Named%20Argument.md)
+3. [Operator](https://github.com/itavita08/Traces-of-study/blob/main/Dart/Operator.md)
